@@ -3,6 +3,9 @@
     background-repeat: no-repeat;
     padding-top: 40px;
 }
+.nav-bg{
+    background-color: #8953af;
+}
 
 h1{}
 p{
@@ -32,9 +35,27 @@ h3{
     background-repeat: no-repeat;
     padding-top: 40px;
     background-position: right;
-    padding-top: 80px;
+    padding-top: 150px;
+    margin-bottom: 150px;
 }
 .my-bg{
     width: 100%;
+}
+.ex-span{
+    font-size: 21px;
+    color: #FFA500;
+    font-weight: 600;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.con-bottom{
+    margin-bottom: 180px;
+}
+.footer-bg{
+    background-color: #3B3B98;
+    padding: 10px 0;
+    margin-bottom: 0;
 }
 
